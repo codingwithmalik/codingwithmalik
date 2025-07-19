@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomCodes
+- 👋 Hi, I’m @CodingWithMalik
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on Website
